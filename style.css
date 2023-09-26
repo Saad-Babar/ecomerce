@@ -1,0 +1,24 @@
+/* Custom CSS for the footer */
+.custom-footer {
+    background-color: #7532FA;
+    color: #fff;
+    padding: 20px 0;
+  }
+  .custom-footer p {
+    margin-bottom: 0;
+  }
+  .custom-footer ul {
+    list-style: none;
+    padding: 0;
+  }
+  .custom-footer li {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  .custom-footer a {
+    color: #fff;
+    text-decoration: none;
+  }
+  .custom-footer a:hover {
+    text-decoration: underline;
+  }
